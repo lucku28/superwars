@@ -1,4 +1,59 @@
-.footer{
-  margin-left : 80px;
-  font-size : 18px;
+Skip to content Search or jump to… Pull requests Issues Marketplace Explore @lucku28 Learn Git and GitHub without any code ! Using the Hello World guide,
+you’ll start a branch,
+write comments,
+and open a pull request. EmaniSowjanya / Day1-Project 1 01 Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security 0 Insights Day1-Project/style.css @EmaniSowjanya EmaniSowjanya first commit 014d465 12 hours ago 76 lines (56 sloc) 945 Bytes @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+
 }
+
+
+
+
+
+.container {
+  width: 15%;
+  float: left;
+  text-align: center;
+
+
+}
+
+.container1,.container2,.container3,.container4{
+  width: 80px;
+  height: 150px;
+  border: solid rgb(238, 236, 236) 2px;
+  border-radius: 4%;
+  padding: 25px;
+}
+
+
+
+
+#id1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.full {
+  padding-left: 280px;
+  padding-top: 7px;
+
+}
+
+p {
+  font-size: 35px;
+  font-style: initial;
+}
+
+article {
+  font-size: 13px;
+  color: black;
+}
+
+© 2020 GitHub,
+Inc. Terms Privacy Security Status Help Contact GitHub Pricing API Training Blog About
